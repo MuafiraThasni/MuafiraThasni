@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuafiraThasni
 - 👀 I’m interested in Optimization Techniques
-- 🌱 I’m currently learning Data Analysi
+- 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me : muafirathasnikt@gmail.com, www.linkedin.com/in/muafira
 
 <!---
