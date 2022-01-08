@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuafiraThasni
-- 👀 I’m interested in Optimization Techniques
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data science, Numerical Optimization Techniques.
+- 🌱 I’m currently and daily improving my Data Science skills.
 - 📫 How to reach me : muafirathasnikt@gmail.com, www.linkedin.com/in/muafira
 
 <!---
